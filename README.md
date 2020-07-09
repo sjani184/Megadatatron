@@ -41,7 +41,7 @@ We chose this question to explore the relationship between craft breweries and t
 
 ## What’s the relationship between brewery location and population demographics?
 
-We did not see an observable trend between brewery location and total population, suggesting that population density alone does not correlate with brewery location. Other factors to be explored in relation to brewery location include socioeconomic characteristics of the area, age demographics, zoning, and the retail environment.
+Review of population size against brewery location suggests that population density alone is not the strongest determining factor in brewery location.  There are several criteria that impact placement including the emerging economy, the emerging population (current and anticipated demographics), retail environment, etc.  Additional factors to be explored include the area's socioeconomic makeup, age demographics and zoning.
 
 ![fig7](output/zipcode_bar_chart.png)
 
