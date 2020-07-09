@@ -41,11 +41,11 @@ We chose this question to explore the relationship between craft breweries and t
 
 ## What’s the relationship between brewery location and population demographics?
 
-A strict review of population size suggests that density alone is not the strongest determining factor in brewery location.  There are several criteria that impact placement decisions for a new brewery, including population size, the emerging economy, the emerging population (current and anticipated demographics), zoning, the retail environment, etc.   Further research informs that the age groupings of the population as well as the current retail vitality of the area weigh heavily, especially for microbreweries which have a retail goal.we did not see an observable trend between brewery location and total population.  The conclusions drawn for this project were pulled from the US Census American Community Survey, 5-year Data Profile (2018).
+We did not see an observable trend between brewery location and total population, suggesting that population density alone does not correlate with brewery location. Other factors to be explored in relation to brewery location include socioeconomic characteristics of the area, age demographics, zoning, and the retail environment.
 
 ![fig7](output/zipcode_bar_chart.png)
 
-**Figure 7: Total population of 9 most populous zip codes.**
+**Figure 7: Total population of 9 most populous zip codes.** Data was pulled from the 2018 US Census.
 
 # Conclusion
-Overall, we found that small production breweries largely formed the majority of all breweries in Georgia, likely moreso in the last decade due to their trending popularity. More breweries were located in the metro Atlanta region than anywhere else. They were also, on average, only 3.56 miles away from the nearest college campus. Deeper analysis and dissection of population and demographic data is needed to establish significant correlations between brewery location and the impact of regional socioeconomics, surrounding retail environments, etc.
+Overall, we found that small production breweries largely formed the majority of all breweries in Georgia, likely moreso in the last decade due to their trending popularity. More breweries were located in the metro Atlanta region than anywhere else. They were also, on average, only 3.56 miles away from the nearest college campus. Deeper analysis and dissection of population and demographic data are needed to establish significant correlations.
